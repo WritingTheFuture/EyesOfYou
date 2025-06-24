@@ -1,6 +1,6 @@
 # Privacy Policy
 
-*Last Updated: 5th of June, 2025.*
+*Last Updated: 24th of June, 2025.*
 
 ## 1. Introduction
 Eyes Of You is a visual assistance application that uses computer vision technologies to help users understand their surroundings. This privacy policy explains how we collect, use, and protect your data when you use our app. We are committed to your privacy and ensure that core visual processing features operate locally on your device.
