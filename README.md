@@ -132,7 +132,6 @@ The "Eyes of You" module is packed with powerful tools to help you see and under
 
 Eyes Of You is more than just visual tools; it's a complete experience:
 
-- **🔐 Secure & Personal**: Easily create and manage your account with secure login options (Email, Google, Apple).
 - **🚀 Easy to Start**: A friendly onboarding process guides you through the app's features.
 - **🗺️ Assisted Navigation**: Explore with greater safety using our navigation aids.
 - **💬 Help & Support**: Get assistance through our Help Center and feedback options.
